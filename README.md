@@ -1,4 +1,4 @@
-# 🏛️ Formação em Arquitetura de Software, Cloud e Machine Learning em Produção
+# Formação em Arquitetura de Software, Cloud e Machine Learning em Produção
 
 > Uma trilha autodidata para construir e operar sistemas — inclusive sistemas de machine learning — a partir dos fundamentos que os sustentam, e não das ferramentas que os embrulham.
 >
